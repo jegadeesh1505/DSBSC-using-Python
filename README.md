@@ -51,12 +51,12 @@ plt.plot(t,s)
 
 ## Output Graph
 
-<img width="700" height="514" alt="Screenshot 2025-11-09 225145" src="https://github.com/user-attachments/assets/c185185a-00ea-45a6-a669-b7739604c1c1" />
+<img width="700" height="414" alt="Screenshot 2025-11-09 225145" src="https://github.com/user-attachments/assets/c185185a-00ea-45a6-a669-b7739604c1c1" />
 
 
 ## Tablular Column
 
-
+![WhatsApp Image 2025-11-09 at 23 01 01_74cd640c](https://github.com/user-attachments/assets/32c4378f-326b-45f6-8479-9a996fe24d4a)
 
 ## Result
 
