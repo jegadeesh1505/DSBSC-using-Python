@@ -56,7 +56,7 @@ plt.plot(t,s)
 
 ## Tablular Column
 
-![WhatsApp Image 2025-11-09 at 23 01 01_74cd640c](https://github.com/user-attachments/assets/32c4378f-326b-45f6-8479-9a996fe24d4a)
+![WhatsApp Image 2025-11-29 at 1 20 00 PM](https://github.com/user-attachments/assets/d588f5e1-16b2-467a-a700-2f34cb5ec26a)
 
 ## Result
 
